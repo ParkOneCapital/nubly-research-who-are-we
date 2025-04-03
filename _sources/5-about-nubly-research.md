@@ -1,0 +1,5 @@
+#  About Nubly Research
+
+Nubly Research is a division of Nubly. 
+
+[Nubly](https://www.livenubly.com/), founded by Michael Ballard (CEO) and Lawrence Hon (CTO) - two innovators who share a passion for harnessing technology to make finance more accessible - revolutionizes the way people interact with financial services. Built with cutting-edge AI technology, Nubly's goal-based financial platform empowers individuals to take control of their financial lives. With expertise at the intersection of finance and software, Michael and Lawrence created a platform that provides personalized tools and resources to achieve specific objectives like saving and investing. By offering financial education, community support, and partnerships with financial institutions, Nubly makes finance more inclusive and reflective. Dedicated to bridging the gap between traditional financial systems and underserved communities, as well as non-salaried and non-benefited workers – including essential workers, independent contractors, gig economy workers, and self-employed individuals – Nubly helps individuals achieve financial health, security, and generational mobility.
