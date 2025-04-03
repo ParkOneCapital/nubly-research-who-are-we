@@ -6,4 +6,4 @@ The information contained in this report is for general information and explorat
 
 # Copyright Notice
 
-Copyright 2024. All rights reserved. No part of this report may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without the prior written permission of the author(s) and publisher.
+Copyright 2025. All rights reserved. No part of this report may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without the prior written permission of the author(s) and publisher.

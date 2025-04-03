@@ -1,4 +1,4 @@
-# The Modern CDFI, from 1789 to 2025
+# The Modern CDFI
 
 ## Abstract
 

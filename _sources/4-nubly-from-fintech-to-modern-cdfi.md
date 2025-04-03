@@ -148,15 +148,3 @@ We believe transparency is paramount. Nubly pledges to regularly publish compreh
 This isn’t about numbers alone; it's about the stories behind them. It’s about empowering individuals with the tools they need to achieve financial well-being, unlocking their potential, revitalizing and building lasting positive change in communities across the nation. 
 
 Nubly is more than reimagining finance – we are rebuilding hope, one community at a time. We believe that equitable access to financial services isn't just good business; it’s fundamental to a stronger, more productive country for all Americans.
-
-Nubly will be guided by a multidisciplinary Strategic Advisory Board comprising experts in legal, policy, technology, portfolio management, compliance, and community development.  A Corporate board of directors will oversee overall strategy and performance. 
-
-We are committed to transparency and accountability. We will regularly publish impact reports detailing our progress towards achieving our mission, including metrics such as:
-
-*   Number of households served
-*   Total amount of capital deployed in underserved communities
-*   Increase in average credit scores among Nubly users
-*   Job creation and economic growth in target areas
-
-
-Nubly is more than just a fintech company or a future bank. It’s a movement – a commitment to building a more inclusive and prosperous America for all. We believe that by empowering individuals with the tools they need to achieve financial health, we can unlock their potential and create lasting positive change in communities across the nation.  We are not just reimagining finance; we are rebuilding hope.
