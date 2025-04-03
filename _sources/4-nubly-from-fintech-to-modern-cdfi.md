@@ -15,7 +15,7 @@ Nubly’s primary target market includes:
 *   **Essential & Gig Economy Workers:**  The backbone of our economy – delivery drivers, healthcare aides, grocery store employees – often facing financial instability despite their essential contributions.
 *   **Low- to Moderate-Income Individuals & Families:** Households struggling to make ends meet and lacking access to affordable financial services.
 *   **Minority-Owned Businesses:** Entrepreneurs from underrepresented communities who face systemic barriers to capital and opportunity.
-*   **Remote and Rural Communities:**  
+*   **Remote and Rural Communities:** Households in non-urban areas that have between 5,000 to 10,000 people that may not have access to a bank or credit union in their town.
 *   **Community Organizations and Non-Profits**: Partnering with local groups already embedded in the community.
 
 
