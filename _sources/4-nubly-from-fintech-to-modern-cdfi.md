@@ -41,24 +41,11 @@ The earliest versions of Nubly app features:
 *   **Personal Financial Management** Seamlessly integrated budgeting, behavioral nudges and analyses of everyday transactions.
 *   **Identity Management Services:** Digital and physical security products to verify, protect and authorize a users identity.
 
-::::{grid}
-:gutter: 2
+:::{figure-md} features
+<img src="./assets/feature_edit.gif" alt="Nubly App Savings and Investments" height="600px" >
 
-:::{grid-item}
-:::{figure-md}
-<img src="./assets/Savings_Goal.gif" alt="Second GIF" height="500px" >
-
-Savings Goals
+Nubly Savings & Investments
 :::
-
-:::{grid-item}
-:::{figure-md}
-<img src="./assets/Investment_Goals.gif" alt="Second GIF" height="500px" >
-
-Investment Goals
-:::
-:::
-::::
 
 This initial phase isn't just about building a product; it's about demonstrating our ability to attract deposits, generate revenue through non-interest income (robo-advisory fees, premium app features), and build a loyal user base – all critical factors that will appeal to potential bank partners in the next stage.  Crucially, this phase allows us to prove we can operate efficiently and responsibly, minimizing funding costs for any future banking entity.
 
