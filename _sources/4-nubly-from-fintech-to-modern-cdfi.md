@@ -6,28 +6,24 @@ The American Dream, once synonymous with opportunity and upward mobility, feels 
 
 Nubly isn’t simply another bank or fintech app. It's a holistic ecosystem designed to empower financially healthy households and spur sustainable economic growth in the communities that need it most. We are focused on serving the bottom 20% of earners in the United States – those often overlooked by traditional financial institutions, and increasingly vulnerable in an evolving economy characterized by gig work, precarious employment, and inadequate retirement savings. Our approach is rooted in understanding their unique challenges: inconsistent income streams, limited access to credit, a lack of financial literacy resources, and a general distrust of established financial systems.
 
-
 ## Target Market: Serving Those Left Behind
 
 Nubly’s primary target market includes:
 
-*   **Non-Salaried Benefited Workers:** Individuals employed in contingent, contract, or freelance roles who lack traditional employee benefits like health insurance and retirement plans.
+*   **Non-Salaried & Non-Benefited Workers:** Individuals employed in contingent, contract, or freelance roles who lack traditional employee benefits like health insurance and retirement plans.
 *   **Essential & Gig Economy Workers:**  The backbone of our economy – delivery drivers, healthcare aides, grocery store employees – often facing financial instability despite their essential contributions.
-*   **Low- to Moderate-Income Individuals & Families:** Households struggling to make ends meet and lacking access to affordable financial services.
+*   **Low-to-Moderate Income Individuals & Families:** Households struggling to make ends meet and lacking access to affordable financial services.
 *   **Minority-Owned Businesses:** Entrepreneurs from underrepresented communities who face systemic barriers to capital and opportunity.
 *   **Remote and Rural Communities:** Households in non-urban areas that have between 5,000 to 10,000 people that may not have access to a bank or credit union in their town.
 *   **Community Organizations and Non-Profits**: Partnering with local groups already embedded in the community.
 
-
 ## Beyond Fintech: The Rise of Autonomous Finance & A New CDFI Paradigm
 
-This isn’t simply about incremental improvements in existing fintech solutions. It's about fundamentally reimagining how financial services are delivered, leveraging the power of human and private capital, along with autonomous agents to create an ecosystem designed to empower financially healthy households and drive sustainable economic growth in underserved communities across the nation. We stand at the precipice of a transformative shift, where AI moves beyond automation and prediction to genuine agency – enabling proactive, personalized support previously unimaginable. Within the next 12 to 24 months, Agentic AI is expected to begin revolutionizing how businesses operate, allowing for strategic moves at a pace and magnitude previously unattainable [PwC](https://www.pwc.com/us/en/tech-effect/ai-analytics/ai-agents.html).
+This isn’t simply about incremental improvements in existing fintech solutions. It's about fundamentally reimagining how financial services are delivered, leveraging the power of human and private capital, along with autonomous agents to create an ecosystem designed to empower financially healthy households and drive sustainable economic growth in underserved communities across the nation. We stand at the precipice of a transformative shift, where AI moves beyond automation and prediction to genuine agency – enabling proactive, personalized support previously unimaginable.
 
 We are focused on serving the bottom 20% of earners in the United States – those often overlooked by traditional financial institutions, and increasingly vulnerable in an evolving economy characterized by gig work, precarious employment, and inadequate retirement savings. Our approach is rooted in understanding their unique challenges: inconsistent income streams, limited access to credit, a lack of accessible financial literacy resources, and a pervasive distrust of established systems.
 
 We envision a nation where every community thrives through equitable access to financial services. This isn’t about charity; it's about unlocking potential. It’s about recognizing the inherent value in these communities and providing them with the tools they need to build wealth, create jobs, and revitalize their neighborhoods.  This is more than just a business plan; it’s a commitment to social impact through private capital, driven by a belief that financial inclusion and expansion of access to markets is fundamental to a stronger, more productive country for all Americans.
-
-
 
 ## The Nubly Journey: A Phased Approach to Transformation
 
@@ -37,13 +33,32 @@ Our journey from fintech startup to fully-fledged modern CDFI will unfold in fiv
 
 We begin as a nimble fintech company, launching a user-friendly mobile application offering core financial services, powered by our underlying financial engine Cadence, with a focus on generating non-interest income. This initial phase is crucial for several reasons. It allows us to rapidly acquire users, gather valuable data about their needs and behaviors, and refine our product offerings based on real-world feedback.  This stage will lay the groundwork for integrating Agentic AI in subsequent phases.
 
-The Earliest Versions of Nubly app feature:
+The earliest versions of Nubly app features:
 
 *   **Goal-Based Savings:** Users can define financial goals (e.g., down payment on a home, emergency fund, retirement) and receive personalized guidance to achieve them. Our levels of personalization will evolve in their capabilities of AI-driven recommendations as data accumulates.
 *   **Goal-Based Robo-Advisory Services:** Leveraging machine learning, third part adapters, and proprietary algorithms, we’ll offer low-cost investment managed accounts and portfolio management tailored to individual risk tolerance and financial objectives. This is particularly important for those who lack access to traditional wealth management services.  We will begin with our proprietary Cadence platform for robo-advisory and over time expand to partnerships on our platforms as transition towards full proprietary Agentic AI solution later in our lifecycle.
 *   **Financial Literacy Resources:** Interactive modules, articles, and tools will empower users with the knowledge they need to make informed financial decisions. We’ll utilize Conversational AI to personalize these resources based on user needs and learning styles, paving the way for more sophisticated Agentic AI tutors, advisor and personal banker.
 *   **Personal Financial Management** Seamlessly integrated budgeting, behavioral nudges and analyses of everyday transactions.
 *   **Identity Management Services:** Digital and physical security products to verify, protect and authorize a users identity.
+
+::::{grid}
+:gutter: 2
+
+:::{grid-item}
+:::{figure-md}
+<img src="./assets/Savings_Goal.gif" alt="Second GIF" height="500px" >
+
+Savings Goals
+:::
+
+:::{grid-item}
+:::{figure-md}
+<img src="./assets/Investment_Goals.gif" alt="Second GIF" height="500px" >
+
+Investment Goals
+:::
+:::
+::::
 
 This initial phase isn't just about building a product; it's about demonstrating our ability to attract deposits, generate revenue through non-interest income (robo-advisory fees, premium app features), and build a loyal user base – all critical factors that will appeal to potential bank partners in the next stage.  Crucially, this phase allows us to prove we can operate efficiently and responsibly, minimizing funding costs for any future banking entity.
 
@@ -87,7 +102,6 @@ We will also focus on:
 *   **Expanding Wealth Management Services:** Offering comprehensive estate planning, trust services, and retirement accounts tailored to the needs of low-to-moderate income individuals. Agentic AI will provide personalized investment advice and portfolio management services.
 *   **Developing Community Development Deposits, Lending, Grants & Investments:**  Directly seeking development deposits and investing in local businesses, infrastructure projects, and non-profit organizations that are driving positive change in underserved communities. We will utilize AI to identify promising investment opportunities and track the impact of our investments.
 
-
 ### Rebuilding America from the Ground Up: Nubly and a New Vision for Community Wealth
 
 For decades, communities across America have been underserved by traditional financial institutions, stifling economic growth and limiting opportunity. Nubly believes it’s time for a different approach – one rooted in the groundbreaking legacy of ShoreBank, but reimagined for the 21st century. We're not just building a bank; we're cultivating engines of local prosperity, empowering residents to build wealth and revitalize their neighborhoods from within.
@@ -106,7 +120,6 @@ Nubly isn’t about charity; it's about recognizing inherent value, putting priv
 
 Ultimately, Nubly is building a future where every neighborhood thrives through equitable access to financial services. We’re committed to lowering debt to GDP by empowering more Americans to participate fully in the economy, creating jobs, and fostering sustainable growth. This isn't just a business plan; it’s a commitment to social impact driven by the belief that financial inclusion is fundamental to a stronger, more productive country for all.
 
-
 ### Embracing The Cutting Edge of Autonomous Finance and Impact: Navigating the Future Challenges of and with AI
 
 Nubly isn't simply adopting Artificial Intelligence; we're building our future *around* it. We believe Agentic AI – autonomous, proactive agents capable of understanding and responding to individual needs – will redefine banking as we know it. To truly harness this potential and future-proof our organization, a ground up strategic approach is essential.
@@ -116,7 +129,6 @@ This isn’t about replacing human interaction; it's about augmenting it with in
 **Building the Foundation: A Digitally Driven Core**
 
 Our journey begins with accelerating digital transformation. This means embracing cloud native computing, the latest in zero-trust security, robust data analytics, and open API / MCP integrations – creating a flexible, interconnected infrastructure capable of supporting advanced AI applications. We’re willing and actively forging strategic partnerships with leading fintech innovators, AI startups, and legacy organizations to leverage their specialized expertise and accelerate our progress.
-
 
 **Safeguarding the Future: Risk, Security & Trust**
 
@@ -135,7 +147,6 @@ We are also committed to building diverse and inclusive AI development teams –
 Our commitment extends beyond immediate implementation. We’re prioritizing investment in ongoing AI, consumer behavior, economic research, policy and development, fostering a broader culture of experimentation, learning, and continuous improvement. This includes establishing robust governance and ethics frameworks to ensure responsible data collection, research, development and deployment – guided by principles of fairness, accountability, and transparency. 
 
 Data quality is the bedrock of effective AI, policy and product decisions. We are committed to rigorous data management practices, ensuring accuracy, reliability, and accessibility. Through strategic partnerships with community development organizations and fintech innovators, we’ll continue to refine our approach and unlock new opportunities for positive impact.
-
 
 ### Beyond Finance: Building a Foundation of Trust & Lasting Impact
 
