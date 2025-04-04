@@ -22,7 +22,7 @@
 *   [EBRI - How the Finances of Urban and Rural Americans Differ](https://www.ebri.org/docs/default-source/infographics/81_ig-ruralurban-5may22.pdf?sfvrsn=66c43b2f_2)
 *   [Pew Reseach Center - A Booming US Stock Market Doesn't Benefit All Racial and Ethnic Groups Equally](https://www.pewresearch.org/short-reads/2024/03/06/a-booming-us-stock-market-doesnt-benefit-all-racial-and-ethnic-groups-equally/)
 *   [ Pew Research Center - The Assets Households Own and the Debts They Carry](https://www.pewresearch.org/2023/12/04/the-assets-households-own-and-the-debts-they-carry/)
-*   [U.S. Census Bureau - Who Has Returement Accounts?](https://www.census.gov/library/stories/2022/08/who-has-retirement-accounts.html)
+*   [U.S. Census Bureau - Who Has Retirement Accounts?](https://www.census.gov/library/stories/2022/08/who-has-retirement-accounts.html)
 *   [AARP - New AARP Research](https://press.aarp.org/2022-7-13-New-AARP-Research-Nearly-Half-Americans-Do-Not-Have-Access-to-Retirement-Plans-at-Work)
 *   [ShoreBank - Wikipedia](https://en.wikipedia.org/wiki/ShoreBank)
 *   [ShoreBank - Wikipedia - 6](https://en.wikipedia.org/wiki/ShoreBank#cite_note-NW-6)
